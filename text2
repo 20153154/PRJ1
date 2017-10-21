@@ -1,0 +1,34 @@
+Đề tài:Hệ thống quản lí siêu thị
+Mô tả bài toán thực tế:
+•	Mục đích:
+Xây dựng hệ thống quản lí siêu thị voứi mục tiêu quản lí sản phẩm và nhân viên
+•	Yêu cầu chung
+-	Nhân viên
++ Quản lí các mặt hàng sản phẩm
++ Quản lí khách hàng
++ Quản lí giao dịch
++ Thống kê báo cáo
+-	Người quản lí
++ Quản lí nhân viên
++ Có các chức năng khác của nhân viên
+•	Kịch bản sử dụng
+Nhân viên và người quản lí đều có quyền truy cập vào hệ thống. Tuy nhiên có sự phân quyền khi sử dụng. Nhân viên chỉ có quyền đọc và ghi, còn người quản lí có thêm quyền sửa đổi
+Khi truy cập vào hệ thống: hệ thống hiển thị giao diện trang chủ, sau đó nhân viên và người quản lí làm việc trên mỗi trang công việc của mình
+•	Các chức năng và dịch vụ trong hệ thống
+-	Quản lí sản phẩm
++ Thêm, sủa, xóa các thông tim về sản phẩm
++ Dán mã sản phẩm
+-	Quản lí khách hàng
++ Thông tin liên lạc (và thông tin cá nhân nếu có)
+-	Quản lí nhân viên
++ Thêm sửa thông tin cá nhân
+-	Quản lí giao dịch
++ Xử lí yêu cầu mua bán của khách hàng
++ Lập giao dịch mua bán (hóa đơn)
++ Các phương thức thanh toán
+-	Thống kê, báo cáo, in ấn
++ Thống kê sản phẩm bán chạy nhất trong tuần, trong tháng
++ Thống kê những khách hàng có giao dịch nhiều trong tuần, trong tháng
++ Thống kê giao dịch của tháng
++ Thống kê sản phẩm mới
++ Thống kê sản phẩm cần thanh lí (sản phẩm bán được ít trong 3 tháng)
